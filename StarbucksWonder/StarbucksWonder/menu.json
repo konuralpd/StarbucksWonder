@@ -1,0 +1,118 @@
+[
+  {
+    "id": "231-1231-124-124-124412",
+    "name": "İçecekler",
+    "items": [
+      {
+        "id": "231-13431-124-124-124412",
+        "name": "Caffe Latte",
+        "price": 32,
+        "description": "Zengin espresso, buharla ısıtılmış kadifemsi süt ve süt köpüğünün dengeli buluşması",
+        "image": "caffelatte"
+      },
+      {
+        "id": "231-1231-124-124-12442412",
+        "name": "Flat White",
+        "price": 36,
+        "description": "Daha yoğun bir kahve deneyimi için ekstra espresso ile hazırlanarak latte sanatı ile tamamlanmış latte",
+        "image": "flatwhite"
+      },
+      {
+        "id": "23551-1231-124-124-124412",
+        "name": "Gingerbread Latte",
+        "price": 40,
+        "description": "Espresso ve gingerbread şurubunun buharda ısıtılmış kadifemsi süt ile buluştuğu, zencefil aromalı krema ve çıtır gofret süslemesiyle sunulan Gingerbread lezzeti geri döndü!",
+        "image": "gingerbread"
+      },
+      {
+        "id": "231-1231-124-12244-124412",
+        "name": "Buzlu Toffee Nut Latte",
+        "price": 40,
+        "description": "Espresso ve toffee nut şurubunun süt ve buz ile buluştuğu, krema ve esmer şeker süslemesiyle sunulan favori Yeni Yıl lezzetinin buzlu hali!",
+        "image": "buzlutoffe"
+      },
+      {
+        "id": "231-1531-13224-12554-124412",
+        "name": "White Chocolate Mocha",
+        "price": 40,
+        "description": "Espresso, beyaz çikolata sosu ve buharla ısıtılmış süt kahvesini tatlı sevenler için buluştu ve krema ile süslendi.",
+        "image": "whitecmocho"
+      },
+      {
+        "id": "231-9999-124-124-124412",
+        "name": "Caramel Macchiato",
+        "price": 36,
+        "description": "Vanilya şurubu üzerine buharla özenle ısıtılmış süt, süt köpüğü ve espresso dokunuşu, karamel sosla süslenerek sunulur.",
+        "image": "caramelmacchiato"
+      },
+      {
+        "id": "23231-1231-124-124-124412",
+        "name": "Iced Cappuccino",
+        "price": 40,
+        "description": "Buz üzerine eklenen soğuk süt köpüğü, espresso ve şeker şurubunun keyifli buluşması",
+        "image": "icedcappucino"
+      },
+      {
+        "id": "231-1231-124-124-1002",
+        "name": "Caffè Americano",
+        "price": 40,
+        "description": "Sıcak su ile inceltilmiş yoğun espresso lezzeti",
+        "image": "caffeamericano"
+      },
+      {
+        "id": "231-1231-1224-124266-124412",
+        "name": "Espresso Macchiato",
+        "price": 40,
+        "description": "Buharla ısıtılmış süt köpüğünün dokunuşuyla espresso",
+        "image": "espressomacchiato"
+      },
+      {
+        "id": "231-1231-124-124-87622",
+        "name": "Doubleshot™ Iced Shaken Espresso",
+        "price": 40,
+        "description": "Krema-süt karışımıyla, espresso ve buz parçalarının buluştuğu soğuk lezzet",
+        "image": "icedshakenespresso"
+      }
+    ]
+  },
+  {
+    "id": "231-1231-12784-124-111212",
+    "name": "Starbucks Refresha® Drinks",
+    "items": [
+      {
+        "id": "231-12231-124-124-123712",
+        "name": "Cool Lime Starbucks Refresha® Drink",
+        "price": 62,
+        "description": "(Misket Limonu Özlü Refresha™) Gerçek meyve özleri, nane ve lime dilimlerinin yeşil çekirdek kahve özü ile buluşması sonucu sunduğumuz ferahlatıcı lezzet",
+        "image": "coollime"
+      },
+      {
+        "id": "23192324-1231-124-124-124412",
+        "name": "Strawberry Açai Starbucks Refresha® Drink",
+        "price": 62,
+        "description": "Tatlı çilek aromaları ve açai notalarının, çilek dilimleri ve buzla serinleten buluşması",
+        "image": "strawberry"
+      }
+    ]
+  },
+  {
+    "id": "231241-12531-124-124-124412",
+    "name": "Sıcak Çikolatalar",
+    "items": [
+      {
+        "id": "231-1231-124-1219974-124412",
+        "name": "Signature Hot Chocolate",
+        "price": 56,
+        "description": "(Özel Sıcak Çikolata) Buharla ısıtılmış sütün ve tarifi Starbucksa özel çikolata sosunun buluşmasıyla ortaya çıkan tatlı lezzet",
+        "image": "signaturehotchocolate"
+      },
+      {
+        "id": "231-1231-124-1299324-124412",
+        "name": "White Hot Chocolate",
+        "price": 56,
+        "description": "(Beyaz Sıcak Çikolata) Buharla ısıtılmış sütün beyaz çikolata sosu ile buluşmasıyla ortaya çıkan tatlı lezzet",
+        "image": "whitehotchocolate"
+      }
+    ]
+  }
+]
